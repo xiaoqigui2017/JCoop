@@ -38,6 +38,19 @@ public class TestBatis {
         Integer i = mapper.insertNewStudent(student);
 
         System.out.println(student);
+//4444
+//        4/4
+//        444
+
+//        hgj
+
+//        jghj
+//        ghj
+//        ghjghj
+//        /hgj
+//        jhgjg
+
+//        hgjgj
 
         session.commit();
 
